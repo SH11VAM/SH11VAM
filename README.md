@@ -14,7 +14,7 @@
 - 🛡️ Built **SecureAudit AI** — an AI-driven penetration-testing & vulnerability-scanning platform
 - 🌱 Currently deepening my skills in **distributed systems, LLM integration & cloud infra**
 - 💬 Ask me about **React, Node.js, MongoDB, Docker, or AI integrations**
-- 📫 Reach me: **vertoassociates@gmail.com**
+- 📫 Reach me: **jainshivam.dev@gmail.com**
 
 ---
 
@@ -57,9 +57,6 @@ Autonomously crawls a target, discovers its API surface, runs parallel vulnerabi
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🛡️ **SecureAudit AI** | AI-powered penetration-testing & vulnerability-scanning platform | Next.js · Fastify · MongoDB · Redis · Playwright |
-| 📱 **Todo App** | Cross-platform mobile todo app | React Native · Expo · NativeWind |
-| 💼 **Portfolio** | Personal developer portfolio site | React · Tailwind |
-| 📝 **BlogPost** | Full-stack blogging application | Node.js · MongoDB |
 
 > _Update this table with your best repos and links._
 
